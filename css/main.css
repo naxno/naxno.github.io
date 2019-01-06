@@ -1,0 +1,50 @@
+html, body {
+    color: #333;
+    margin: auto 0;
+}
+
+#tab, h5 {
+    display: inline-block;
+}
+
+#ran {
+    display: block;
+}
+
+body {
+    background-color: #004272;
+    font-family: sans-serif;
+    line-height: 1.4;
+}
+
+h2 {
+    color: #97BF0D;
+}
+
+#result {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+h5 {
+    border: 2px #97BF0D solid;
+    background-color: #263238;
+    border-radius: 4px;
+    color: #97BF0D;
+    padding: 8px;
+    margin: 8px;
+}
+
+button:hover {
+    background-color: #162228;
+}
+
+iframe, h2 {
+    margin: 8px;
+}
+
+.plink {
+    color: #97BF0D;
+    cursor: pointer;
+    text-decoration: underline;
+}

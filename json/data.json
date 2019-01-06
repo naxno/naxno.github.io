@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Fritz Mitte",
+        "time": 4,
+        "menu": null,
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.8778431787673!2d11.582804516028697!3d50.92597667954384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a8bc61c78dbd%3A0xf3ad392868530439!2sFritz+Mitte!5e0!3m2!1sde!2sde!4v1546790201274",
+        "rating": 5,
+        "foodtype": "Pommes, Currywurst",
+        "vega": true
+    },
+    {
+        "name": "Thi Bich Pham",
+        "time": 8,
+        "menu": null,
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.630682480703!2d11.578486116028834!3d50.93054847954449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a89872e20885%3A0x48bf5cd26f697131!2sThi+Bich+Pham!5e0!3m2!1sde!2sde!4v1546790256673",
+        "rating": 5,
+        "foodtype": "Asiatisch",
+        "vega": true
+    },
+    {
+        "name": "Cafe:ok",
+        "time": 5,
+        "menu": "https://cafe-ok.de/",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.805190904849!2d11.58584271602872!3d50.92732057954399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a8bb5cb50585%3A0x74396a44ddca3433!2zQ2Fmw6k6b2s!5e0!3m2!1sde!2sde!4v1546790324362",
+        "rating": 5,
+        "foodtype": "Bio",
+        "vega": true
+    },
+    {
+        "name": "Pizzeria da Lupo",
+        "time": 2,
+        "menu": "https://www.speisekarte.de/jena/restaurant/pizzeria_da_lupo/speisekarte#menu-filter-login",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.7820580093417!2d11.57950951602872!3d50.92774847954405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a8bd41f1db1b%3A0xa367999117205f05!2sPizzeria+da+Lupo!5e0!3m2!1sde!2sde!4v1546790110689",
+        "rating": 3,
+        "foodtype": "Pizza, Pasta",
+        "vega": true
+    },
+    {
+        "name": "Subway",
+        "time": 2,
+        "menu": "https://www.subway.com/de-DE/MenuNutrition/Menu/All",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.7758733554183!2d11.579073016028715!3d50.92786287954406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a8bd4267e291%3A0xe38545cc0fa0f920!2sSubway!5e0!3m2!1sde!2sde!4v1546790369713",
+        "rating": 4,
+        "foodtype": "Sandwiches",
+        "vega": true
+    },
+    {
+        "name": "Gönnataler Puten-Bistro",
+        "time": 4,
+        "menu": null,
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.7758733554183!2d11.579073016028715!3d50.92786287954406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfef310b3d63d79bc!2sG%C3%B6nnataler+Puten-Bistro!5e0!3m2!1sde!2sde!4v1546790421449",
+        "rating": 5,
+        "foodtype": "Pute",
+        "vega": false
+    },
+    {
+        "name": "Dürüm Point",
+        "time": 4,
+        "menu": null,
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d444.5664412553017!2d11.583234744758496!3d50.9265368074893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6a8bcf657ff0d%3A0x42fba5cd3c903444!2zRMO8csO8bSBQb2ludCBKZW5h!5e0!3m2!1sde!2sde!4v1546791093226",
+        "rating": 4,
+        "foodtype": "Döner, Pizza, Nudeln",
+        "vega": true
+    }
+]
